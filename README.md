@@ -6,7 +6,7 @@
 - 🤖: &nbsp;Interested in where RL meets computer vision
 - 💼: &nbsp;Currently looking for roles in ML and data science
 - 📫: &nbsp;**[Email me]**
-- 💻: &nbsp;Connect with me on **[LinkedIn]**
+<!-- - 💻: &nbsp;Connect with me on **[LinkedIn]** -->
 
 
 <h2 align="left" id="bradley-tech">Toolbox 🔨</h2>
