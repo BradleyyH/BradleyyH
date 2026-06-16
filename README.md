@@ -53,5 +53,4 @@
 
 <!-- Links: -->
 [RL from Scratch]: https://github.com/BradleyyH/rl-from-scratch "RL from Scratch"
-[LinkedIn]: http://www.linkedin.com/in/bradley--hewitt
 [Email me]: mailto:bradleyhewitt@proton.me
