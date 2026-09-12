@@ -4,7 +4,7 @@
 - 🏫: &nbsp;Computer Science and Mathematics graduate
 - 🌱: &nbsp;Currently competing in RSNA's knee MRI challenge on Kaggle
 - 🤖: &nbsp;Recently built Q-learning and DQN from first principles **[RL from Scratch]**
-- 💼: &nbsp;Currently looking for roles in ML, data science and quantitative analysis
+- 💼: &nbsp;Currently looking for roles in ML and data science
 - 📫: &nbsp;**[Email me]**
 - 💻: &nbsp;Connect with me on **[LinkedIn]**
 
